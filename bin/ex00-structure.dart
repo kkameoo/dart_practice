@@ -22,6 +22,6 @@ void main() {
   var num2 = 3.14159; // var 키워드 : 타입 추론 기능
   
   double result = add(num1, num2);
-  print('$num1 + $num2 = $result'); // 문자열 보관
+  print('$num1 + $num2 = $result'); // 문자열 보간
 }
 
